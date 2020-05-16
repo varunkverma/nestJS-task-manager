@@ -1,0 +1,44 @@
+[
+  {
+    "id": "22988b30-96de-11ea-b55c-19780af19649",
+    "title": "Morning",
+    "description": "Cook Breakfast",
+    "status": "OPEN"
+  },
+  {
+    "id": "2f8ce390-96de-11ea-b55c-19780af19649",
+    "title": "Morning",
+    "description": "Brew Coffee",
+    "status": "OPEN"
+  },
+  {
+    "id": "40f278c0-96de-11ea-b55c-19780af19649",
+    "title": "Morning",
+    "description": "Study C++",
+    "status": "OPEN"
+  },
+  {
+    "id": "4ad2b350-96de-11ea-b55c-19780af19649",
+    "title": "Afternoon",
+    "description": "Study NestJS",
+    "status": "OPEN"
+  },
+  {
+    "id": "50d76160-96de-11ea-b55c-19780af19649",
+    "title": "Afternoon",
+    "description": "Cook Lunch",
+    "status": "OPEN"
+  },
+  {
+    "id": "59cb6730-96de-11ea-b55c-19780af19649",
+    "title": "Night",
+    "description": "Cook Dinner",
+    "status": "OPEN"
+  },
+  {
+    "id": "641475b0-96de-11ea-b55c-19780af19649",
+    "title": "Night",
+    "description": "Study C++",
+    "status": "OPEN"
+  }
+]
